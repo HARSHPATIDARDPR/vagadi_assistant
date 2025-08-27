@@ -1,0 +1,7 @@
+{
+  "commands": [
+    {"name":"google_search","type":"url","pattern":"google"},
+    {"name":"youtube_search","type":"url","pattern":"youtube"},
+    {"name":"calculator","type":"eval","pattern":"calculate"}
+  ]
+}
