@@ -5,3 +5,20 @@
     {"name":"calculator","type":"eval","pattern":"calculate"}
   ]
 }
+
+{
+  "commands": [
+    {
+      "pattern": "google",
+      "type": "url"
+    },
+    {
+      "pattern": "youtube",
+      "type": "url"
+    },
+    {
+      "pattern": "calculate",
+      "type": "eval"
+    }
+  ]
+}
